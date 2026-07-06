@@ -2769,12 +2769,20 @@ PrefabInstance:
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 546055389183577431, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 546055389183577431, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 546852350400209058, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 565049603979434708, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 565049603979434708, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3293,6 +3301,10 @@ PrefabInstance:
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1506383561380199392, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1506383561380199392, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -3639,6 +3651,10 @@ PrefabInstance:
     - target: {fileID: 2250158249308301610, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2256874452253940670, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2256874452253940670, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4041,6 +4057,10 @@ PrefabInstance:
       value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2974490305593020871, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2974490305593020871, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -4055,6 +4075,10 @@ PrefabInstance:
     - target: {fileID: 3001060898038066808, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3035482838739767230, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3035482838739767230, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4647,6 +4671,10 @@ PrefabInstance:
     - target: {fileID: 4192612296132735418, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 4193397940922986484, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4193397940922986484, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6283,6 +6311,10 @@ PrefabInstance:
     - target: {fileID: 8102355160758432923, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8119264128164445275, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8119264128164445275, guid: 7047edd6b35bd114c9e884ab7e8a8493, type: 3}
       propertyPath: m_StaticEditorFlags
